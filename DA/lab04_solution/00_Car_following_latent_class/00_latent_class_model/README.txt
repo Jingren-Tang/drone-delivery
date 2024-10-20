@@ -1,0 +1,1 @@
+Specify and estimate the latent class model as defined in the lecutre slides

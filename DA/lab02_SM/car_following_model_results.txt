@@ -1,0 +1,18 @@
+Log likelihood at zeros:[-24996.76945136]
+Initial log likelihood:[-24996.76945136]
+Final log likelihood:-21600.417697556746
+rho squared=[0.13587163]
+adjusted rho squared=[0.13547158]
+AIC=43220.83539511349
+BIC=43299.05057501018
+Parameter	Estimate	s.e.	t-ratio0	p-value	Rob s.e.	Rob t-ratio0	Rob p-value
+alpha_acc	2.036	0.193	10.526	0.0	0.231	8.798	0.0
+alpha_dec	-2.717	0.274	-9.911	0.0	0.356	-7.634	0.0
+beta_acc	0.304	0.04	7.64	0.0	0.045	6.712	0.0
+beta_dec	0.081	0.036	2.233	0.026	0.044	1.832	0.067
+gamma_acc	0.719	0.047	15.31	0.0	0.054	13.288	0.0
+gamma_dec	0.71	0.049	14.386	0.0	0.064	11.056	0.0
+lamda_acc	0.904	0.03	30.128	0.0	0.033	27.702	0.0
+lamda_dec	1.006	0.027	37.773	0.0	0.031	31.978	0.0
+sigma_acc	-0.263	0.007	-36.131	0.0	0.009	-28.766	0.0
+sigma_dec	-0.23	0.007	-30.773	0.0	0.01	-23.06	0.0

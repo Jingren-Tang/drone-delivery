@@ -1,0 +1,8 @@
+ID: Observation/individual ID
+trip_duration: Expected trip duration in minutes
+time_of_day: Time of day the parcel to be delivered
+	(1:morning, 2:afternoon, 3:evening, 4:night)
+Size: Parcel size in cubic metres
+Fragile: If parcel fragil then 1 else 0
+Compensation: Monetary reward in CHF
+choice: Decision of crowdshipper (1:accept, 0:reject)

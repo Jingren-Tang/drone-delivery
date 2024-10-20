@@ -1,0 +1,5 @@
+ID: Individual ID
+tt_*: Travel time for mode * in minutes
+tc_*: Travel cost for mode * in CHF
+hw_*: Headway time of mode * in minutes
+choice: Mode choice variable (1:tram, 2:metro, 3:bus)

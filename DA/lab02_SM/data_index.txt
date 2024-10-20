@@ -1,0 +1,34 @@
+Data contains observations of real life traffic.
+The frequency is 1 observation per second.
+
+Variables index:
+
+ID: Vehicle ID
+Time: Observation timestamp
+Position: Longitudinal position of the vehicle
+Length: Vehicle length
+Width: Vehicle width
+Type: Vehicle type
+Speed: Vehicle speed (m/s)
+Acceleration: Vehicle acceleration (m/s^2)
+Lane: Vehicle lane
+Leader: ID of the lead vehicle
+Follower: ID of the following vehicle
+Space_headway: Spacing distance with lead vehicle (m)
+Time_headway: Time distance with lead vehicle (s)
+Acceleration_lead: Acceleration of lead vehicle
+Speed_lead: Speed of lead vehicle
+Position_lead: Longitudinal position of lead vehicle
+Density: Average traffic density in the next 100m
+distanceToEnd: Distance to the end of the observation area
+lane_change: dummy variable that takes value 1 if a lane change is observed
+lead_change: dummy variable that takes value 1 if the lead vehicle changes
+lag_leader*: the ID of the lead vehicle * seconds ago
+lag_lane*: the vehicle lane * seconds ago
+lag_acceleration*: acceleration * seconds ago
+lag_speed*: speed * seconds ago
+lag_position*: longitudinal position * seconds ago
+lag_s_headway*: Space headway * seconds ago
+
+
+The remaining variables are irrelevant to the car-following model context

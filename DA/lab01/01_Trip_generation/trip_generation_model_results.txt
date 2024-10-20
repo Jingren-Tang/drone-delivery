@@ -1,0 +1,15 @@
+Log likelihood at zeros:[-62845.88533205]
+Initial log likelihood:[-36208.88533204]
+Final log likelihood:-4556.0447787997955
+rho squared=[0.92750449]
+adjusted rho squared=[0.9273931]
+AIC=9126.089557599591
+BIC=9176.561940203424
+Parameter	Estimate	s.e.	t-ratio0	p-value	Rob s.e.	Rob t-ratio0	Rob p-value
+b0	0.883	0.047	18.655	0.0	0.047	18.601	0.0
+b_house_size	0.418	0.004	97.635	0.0	0.004	93.492	0.0
+b_no_vehs	0.263	0.005	53.388	0.0	0.005	53.871	0.0
+b_income	0.014	0.001	24.775	0.0	0.001	24.824	0.0
+b_children	0.216	0.011	19.468	0.0	0.011	19.454	0.0
+sigma	-0.963	0.007	-136.236	0.0	0.006	-155.344	0.0
+b_public	-0.455	0.004	-111.233	0.0	0.004	-104.199	0.0

@@ -1,0 +1,13 @@
+Log likelihood at zeros:[-3295.836866]
+Initial log likelihood:[-3295.836866]
+Final log likelihood:-845.6926800296376
+rho squared=[0.74340578]
+adjusted rho squared=[0.74188872]
+AIC=1701.3853600592752
+BIC=1731.4171978975264
+Parameter	Estimate	s.e.	t-ratio0	p-value	Rob s.e.	Rob t-ratio0	Rob p-value
+asc_tram	0.17	0.185	0.92	0.358	0.187	0.909	0.364
+asc_metro	0.206	0.271	0.761	0.447	0.275	0.75	0.453
+beta_tc	-0.998	0.074	-13.534	0.0	0.075	-13.225	0.0
+beta_tt	-0.109	0.009	-11.715	0.0	0.009	-11.621	0.0
+b_headway	-1.252	0.047	-26.835	0.0	0.046	-27.444	0.0

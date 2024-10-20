@@ -1,0 +1,7 @@
+ID: Household/observation ID
+Household_Size: Number of household members
+Number_of_Vehicles: Number of household vehicles
+Income: Income (in CHF/1000)
+Proximity_to_Public_Transportation: Distance to closest public transport stip (in km)
+Presence_of_Children: Presence of children in the household
+Trips: Number of household daily trips

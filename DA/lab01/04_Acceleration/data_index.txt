@@ -1,0 +1,5 @@
+ID: Observation ID
+Speed: Speed of subject vehicle in m/s
+Speed_lead: Speed of lead vehicle in m/s
+Distance: Space headway in m
+Acceleration: Acceleration of subject vehicle in m/s^2
